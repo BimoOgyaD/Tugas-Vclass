@@ -1,7 +1,6 @@
-balanced_tree/
-|-- src/
-|   |-- balanced_tree.py
-|-- tests/
-|   |-- test_balanced_tree.py
-|-- README.md
-|-- .gitignore
+# AVL Tree Implementation
+
+This project includes the implementation of AVL Tree, a self-balancing binary search tree.
+
+## Project Structure
+
